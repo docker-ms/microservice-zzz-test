@@ -1,0 +1,4 @@
+{
+	"uid":"leonard_shi+dev_00000",
+	"pwd":"43f01efbad6aa7be1fc5bfd8810229a24c93ad8b"
+}

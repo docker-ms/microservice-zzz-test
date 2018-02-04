@@ -1,0 +1,18 @@
+{
+  "name": "ptest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "~7.1.9",
+    "microservice-utils": "git+ssh://git@bitbucket.org/v-cube/microservice-module-util-js.git",
+    "msgpack": "~1.0.2",
+    "shortid": "~2.2.6",
+    "ws": "~2.0.3"
+  }
+}
